@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Price,StockQuantity
+001,Laptop,Electronics,1000,50
+002,Smartphone,Electronics,800,100
+003,Chair,Furniture,50,200
+004,Book,Stationery,15,500
+005,Shirt,Apparel,25,300

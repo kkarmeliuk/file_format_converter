@@ -1,0 +1,6 @@
+OrderID,ProductID,Quantity,Date,CustomerName
+101,001,2,2023-08-01,John Smith
+102,002,4,2023-08-02,Jane Doe
+103,003,3,2023-08-03,Michael Johnson
+104,004,10,2023-08-04,Emily Williams
+105,005,5,2023-08-05,David Brown
